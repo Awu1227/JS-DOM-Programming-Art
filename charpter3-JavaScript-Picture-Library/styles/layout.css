@@ -1,0 +1,32 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  text-align: center;
+  color: darkorchid;
+}
+a {
+  color: brown;
+  text-decoration: none;
+  font-size: larger;
+}
+li {
+  list-style: none;
+  float: left;
+  padding-left: 5rem;
+  padding-bottom: 1rem;
+}
+img {
+  display: block;
+  clear: both;
+}
+span {
+  position: absolute;
+  left: 60%;
+  bottom: 50%;
+  color: red;
+  font-size: x-large;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
